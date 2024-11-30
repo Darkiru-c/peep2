@@ -3,11 +3,11 @@
  "run": "21889796-7",
  "nombre": "Rodrigo",
  "apellido": "León",
- "direccion": "algun lugar",
+ "direccion": "gumercindo dias",
  "fono": 30104982,
  "correo":"rodrigo.leon21@inacapmail.cl",
- "montoCredito": 99999999,
- "deuda":9,
+ "montoCredito": 9999,
+ "deuda":99,
  "tipo": 1
  }
 ]
